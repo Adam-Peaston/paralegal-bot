@@ -1,2 +1,3 @@
 # Exclude processed output files
 data/output/
+data/input/
