@@ -17,4 +17,4 @@ I am looking forward to experimenting with different prompting techniques for di
 ## The journey
  - Finding open source tools to embed sentences / paragraphs is a whole lot easier than I was expecting. Getting started with the `paraphrase-MiniLM-L6-v2` model for MVP from who else but Hugging Face which is incredibly simple to download and apply.
  - Experimenting with LanceDB as an open-source light-weight serverless vector database that looks super easy to get started with: `https://lancedb.github.io/lancedb/notebooks/youtube_transcript_search/`
- - Splashing out a bit on the LLM, let's see if we can run a whole LLama 2 model. 
+ - Splashing out a bit on the LLM, let's see if we can run a whole LLama 2 model. Probably the hardest thing yet has just been working out how to run bash scripts on Windows.
